@@ -1,8 +1,8 @@
 name: gh-pages build
 
-#on:
-#    push:
-#        branches: [master]
+on:
+    push:
+        branches: [master]
 
 jobs:
     build:
